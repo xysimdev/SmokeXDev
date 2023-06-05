@@ -1,6 +1,6 @@
 ## SmokeX Developer Lmao
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmokeXDev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeXDev&layout=compact)](https://github.com/SmokeXDev/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
