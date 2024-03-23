@@ -1,4 +1,4 @@
-## SmokeX Developer Lmao
+## Lua Developer | Roblox Game Maker
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeXDev&layout=compact)](https://github.com/SmokeXDev/github-readme-stats)
 
